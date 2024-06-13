@@ -143,4 +143,6 @@ while True: #while True를 사용하면 break가 나올 때까지 무한반복�
             break
 
 print("-" * 50)
+print("로또 당첨 번호는: "lottery,"였습니다.")
 print("로또 번호 추첨 프로그램이 종료됩니다.")
+
